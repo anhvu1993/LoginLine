@@ -1,0 +1,16 @@
+PODS:
+  - LineSDK (4.1.1)
+
+DEPENDENCIES:
+  - LineSDK (~> 4.1.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - LineSDK
+
+SPEC CHECKSUMS:
+  LineSDK: 4d0a483f5435e911911810476717417669b5b178
+
+PODFILE CHECKSUM: 840773858f7b3893b7d6ae3b2edf946491f7d3c1
+
+COCOAPODS: 1.7.3
